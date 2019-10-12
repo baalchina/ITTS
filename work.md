@@ -1,5 +1,9 @@
 ## 参与我们的工作
 
+如果您对git不熟悉，建议参考 [大家一起学git](https://github.com/bg6cq/learngit) 花2个小时熟悉git基本概念和操作。
+
+如果您使用国内的gitee.com，请将下面的github替换为gitee即可。
+
 由于github的存在，参与我们的工作非常简单，只需要3步：
 1. fork代码，得到自己的拷贝
 2. 在自己的拷贝里修改
@@ -91,3 +95,8 @@ git push origin xxx
 git pull bg6cq master
 git push origin xxx
 ```
+
+
+## 推荐阅读
+
+1. [Pro Git 第二版（中文版）](https://www.kancloud.cn/kancloud/progit/70158)
